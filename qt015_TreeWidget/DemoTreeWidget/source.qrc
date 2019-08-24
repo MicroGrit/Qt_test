@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>StyleSheet/styleSheet.css</file>
+        <file>Icons/add.ico</file>
+        <file>Icons/del.ico</file>
+    </qresource>
+</RCC>
